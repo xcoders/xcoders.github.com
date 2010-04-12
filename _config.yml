@@ -1,0 +1,7 @@
+pygments: true
+permalink: date
+google_analytics_code: UA-863684-1
+url: http://www.seattlexcoders.org
+exclude:
+- Rakefile
+- README.markdown
