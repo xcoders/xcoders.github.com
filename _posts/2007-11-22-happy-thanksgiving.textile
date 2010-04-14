@@ -1,0 +1,6 @@
+--- 
+layout: post
+author: Joseph Heck
+title: Happy Thanksgiving
+---
+Happy Thanksgiving, all.

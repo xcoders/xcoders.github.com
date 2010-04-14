@@ -1,0 +1,11 @@
+--- 
+layout: post
+author: Joseph Heck
+title: Xcode 3 overview
+---
+If you're interesting in the "Xcode 3 overview presentation":http://seattlexcoders.org/shared/Xcode3_overview.vpdoc.zip from Xcoders - it's now available. If you don't already have a copy of "VoodooPad":http://flyingmeat.com/voodoopad/, get one to view it - you can get the lite version at http://flyingmeat.com/voodoopad/voodoopadlite.html.
+
+We also tried out a new location - Getty Images graciously offered to host us at their facility in Fremont. The room was a little small (we packed it to standing room only - I'm kind of surprised given that I was the one presenting) - we'll definitely get the resolved if we head there again. In the meantime, "I'd love your feedback":mailto:heckj@mac.com on the new location if you stopped by.
+
+
+

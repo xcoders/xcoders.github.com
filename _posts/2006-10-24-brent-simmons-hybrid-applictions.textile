@@ -1,0 +1,10 @@
+--- 
+layout: post
+author: Andrew Carter
+title: Brent Simmons on Cocoa Hybrid Applictions
+---
+The next meeting will be Brent giving his C4 presentation on Hybrid Applications. 
+
+!http://static.flickr.com/119/276484926_17248257cc.jpg?v=0(Brent Simmons at C4)!
+
+The VoodooPad doc is <a href="http://seattlexcoders.org/shared/HybridApps.vpdoc.zip">here</a>.

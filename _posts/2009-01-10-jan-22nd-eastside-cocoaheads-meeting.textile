@@ -1,0 +1,13 @@
+--- 
+layout: post
+author: Joe Jones
+title: Jan 22nd Eastside CocoaHeads Meeting
+---
+The inaugural meeting of the Eastside CocoaHeads will be this Jan 22nd. Current meeting location will be downtown Bellevue at the Microsoft offices in Lincoln Square. This should be a central location with lots of local after meeting meet spots.
+
+The initial presentation will be by me on "Clojure":http://clojure.org. This is a neat Lisp implementation that lives in the JVM, supports Java integration well and has some great tools for concurrency. I'll try to do it justice after my whole 1 month of experimenting with it. :-)
+
+We will meet near the elevators on the second floor. At 7 prompt we will proceed to the meeting room. Because you have to have an employee badge to get to the office I only ask that you try to be there before 7. After we move everyone up to the room getting down to catch stragglers will be difficult.
+
+See you all there!
+

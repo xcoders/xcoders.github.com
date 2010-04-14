@@ -1,0 +1,8 @@
+--- 
+layout: post
+author: Joseph Heck
+title: "July 24: The Google 'GData' API's - Objective-C"
+---
+Only July 24th, Greg Robbins, Google software engineer based in Kirkland, is going to give us a little overview of the Objective-C GData api's for working with Google services programmatically.
+
+<a href="http://code.google.com/p/gdata-objectivec-client/">http://code.google.com/p/gdata-objectivec-client/</a>

@@ -1,0 +1,10 @@
+--- 
+layout: post
+author: Joseph Heck
+title: December meeting (12/10)
+---
+For Thursday, Dec 10th: Playfield
+
+"Earlier this year we set out to build a new kind of multi-player app experience for the iPhone platform.  Along the way we realized that the tools we needed to create the kind of experience we had planned didn’t exist; so we built the tools ourselves.  
+
+We've created a platform we call Playfield.  Playfield is an advanced set of networking libraries that enable multi-device, cross platform user experiences.  Playfield enables applications to generate dynamic visual canvases spanning multiple devices and engaging multiple users.  We have a simple application to demonstrate the capabilities of Playfield and would like to share it with the Xcoders group.  If the app is approved by Apple in time for the meeting, we'll be able to demonstrate Playfield using the attendees' iPhones in addition to the ones we'll have with us."

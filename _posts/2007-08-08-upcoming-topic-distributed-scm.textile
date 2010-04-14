@@ -1,0 +1,6 @@
+--- 
+layout: post
+author: Andrew Carter
+title: "Upcoming topic: Distributed SCM"
+---
+Andrew Carter will be presenting Distributed SCM systems for the August 23 meeting. Included will be an overview of how distributed SCM is different from centralized repositories and a tour of two popular options git and mercurial.

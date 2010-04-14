@@ -1,0 +1,6 @@
+--- 
+layout: post
+author: Andrew Carter
+title: Sep 13 Meeting - Native iPhone Development
+---
+Lucas Newman is one of the authors for the popular iPhone game "Lights Off":http://www.deliciousmonster.org/. He'll be diving into how to do native development for iPhone. Bring your iPhone (and a restore image if you are squeamish).

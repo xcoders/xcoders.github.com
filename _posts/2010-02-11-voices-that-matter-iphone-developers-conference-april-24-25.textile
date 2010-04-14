@@ -1,0 +1,23 @@
+--- 
+layout: post
+author: Andrew Carter
+title: "Voices That Matter: iPhone Developer's Conference April 24-25"
+---
+Pearson Education is presenting <a href="http://www.voicesthatmatter.com/iPhone2010/">Voices That Matter: iPhone Developers Conference</a> in Seattle at the <a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Bell+Harbor+International+Conference+Center&sll=37.0625,-95.677068&sspn=45.688268,76.289063&ie=UTF8&hq=Bell+Harbor+International+Conference+Center&hnear=&ll=47.611631,-122.348857&spn=0.004774,0.009313&z=17&iwloc=A">Bell Harbor International Conference Center</a> April 24 & 25, 2010.
+
+The conference will cover iPhone, iPod Touch, and iPad development. The topics include:
+
+<ul>
+<li>Designing a killer iPhone UI</li>
+<li>Core animation</li>
+<li>iPhone game programming</li>
+<li>Audio and OpenAL</li>
+<li>Core data for iPhone</li>
+<li>Intro to Objective-C</li>
+<li>Xcode</li>
+</ul>
+
+Additionally, <a href="http://www.bignerdranch.com/instructors/hillegass.shtml">Aaron Hillegass</a> will be giving the opening keynote.
+
+Finally, Xcoders can get a nice discount on the registration fees. Hope to see lots of Xcoders at the conference!
+

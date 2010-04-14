@@ -1,0 +1,10 @@
+--- 
+layout: post
+author: Joseph Heck
+title: Next Meeting - October 9th - SproutCore
+---
+We're going to take a break off the iPhone run we've had for a little bit and do something completely different!
+
+Matt Joss (of the infamous Rogue Sheep) is going to give us a run-down on <a href="http://www.sproutcore.com/">SproutCore</a>. For those that don't know, and are too lazy to look through the link - SproutCore is the web framework that Apple is using to build out their online web applications for their online presence (i.e. what had been the .Mac suite of applications).
+
+

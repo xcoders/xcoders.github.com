@@ -1,0 +1,6 @@
+--- 
+layout: post
+author: Andrew Carter
+title: Extra speaker for Oct 8 meeting - Nick Black
+---
+Nick Black (cofounder of both Open Street Map and CloudMade) will be speaking on CloudMade services for iPhone in between Hal and Kris tonight.

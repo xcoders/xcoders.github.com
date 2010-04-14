@@ -1,0 +1,6 @@
+--- 
+layout: post
+author: Andrew Carter
+title: July 12 - Social Meetup
+---
+No tech topic for July 12 meeting. The plan is to have a social meetup at "Old Town Alehouse":http://www.oldtownalehouse.com/ in Ballard. I expect the most likely topic will be showing off all the new iPhone's in the Xcoder group.

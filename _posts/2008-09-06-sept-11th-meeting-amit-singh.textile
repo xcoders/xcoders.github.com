@@ -1,0 +1,17 @@
+--- 
+layout: post
+author: Joseph Heck
+title: Sept 11th Meeting - Amit Singh
+---
+Our meeting space is getting, well, a bit flexible right now. We've been using the <a href="http://dbug.org/">dBug</a> Resource center for the past several years, and that location looks like it's about to undergo some changes. The lease they had for the resource center is up, so choices are on the air. It also means that we'll have to play it flexible for where we'll be hosting this and future meetings for a while. Likely we'll be able to move with the resource center to a new location, but it's all up in the air at the moment.
+
+In the meantime, we're fortunate to have <a href="http://www.kernelthread.com/">Amit Singh</a> (Google, author of MacOS X Internals) visiting Seattle and he offered to talk with us. We'll be having the meeting at Google's Fremont engineering offices at N 34th street. 
+
+If you're interested in attending, please let us know! Go open the Google Docs <a href="http://spreadsheets.google.com/ccc?key=pThO65ziuVbL5Sf8V2bK3BA&hl=en">attendee list</a> and add your name. Since Google is graciously providing their space, their request is to have some idea of who's planning on attending.
+
+Directions:
+The google offices are at 651 N 34th St. They're in the building towards the water, not actually ON 34th street - just to make things interesting (technically called "northlake way"). <a href="http://maps.google.com/maps?q=google+seattle+engineering">MAP</a>
+
+Street parking is likely available, but please make allowances, as it can be difficult to find on some evenings. I don't have a rhyme or reason to that though - just wanted to set expectations.
+
+I'll look forward to seeing you there!

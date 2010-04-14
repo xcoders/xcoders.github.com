@@ -1,0 +1,11 @@
+--- 
+layout: post
+author: Andrew Carter
+title: November/December Schedule
+---
+11/9 - Andrew Carter - Ruby on Rails
+11/23 - No meeting (holiday)
+12/14 - Michael Kale - Asterix
+12/28 - No meeting (holiday)
+
+(UPDATE: Michael will be doin the 12/14 meeting on Asterisk - the open source PBX.)

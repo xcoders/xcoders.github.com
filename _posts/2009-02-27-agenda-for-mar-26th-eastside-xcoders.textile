@@ -1,0 +1,14 @@
+--- 
+layout: post
+author: Joe Jones
+title: Agenda for Mar 26th Eastside Xcoders
+---
+Because Jeff was unable to attend the the Feb meeting, we have kindly extended his presentation to March. :-)
+
+As well we will start a new feature where one or more people will present to the group an application or technology example and we can discuss it, code review it, etc. and hopefully pass on our hard earned knowledge.
+
+The first presenter for this will be Gerard Hickey talking about his app DIT, a tool for Morse Code training. 
+
+Afterwards we will delve into the next 3 chapters of Advanced OS X (4-6).
+
+

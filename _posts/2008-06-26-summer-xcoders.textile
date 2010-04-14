@@ -1,0 +1,10 @@
+--- 
+layout: post
+author: Joseph Heck
+title: Summer XCoders
+---
+What? Yeah, yeah - we're having meetings!
+
+Tonights meeting, for example, is Chris Parrish going into Quartz Composer and how to develop your own patches for it. 
+
+We're still working the schedule for July and August, but we do have the meetings all set aside. For specifics as they're happening, please check out the Google calendar link - it's the definitive source for what's happening.

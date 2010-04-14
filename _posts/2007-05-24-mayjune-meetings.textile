@@ -1,0 +1,12 @@
+--- 
+layout: post
+author: Joseph Heck
+title: May/June Meetings
+---
+Sorry for the late posting. Our Google calendar data got lost or borked or something, so I've been recreating that info. Should be pretty much up to date now.
+
+May 24: Working with NSAttributedString and how to arrange syntax highlighting in your doc.
+
+June 14: NO MEETING - WWDC
+
+June 28: Post WWDC "What are we getting with Leopard?" update, bitch session, and general schmooze.

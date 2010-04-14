@@ -1,0 +1,11 @@
+--- 
+layout: post
+author: Joseph Heck
+title: May 14th Meeting - Xcoders Seattle
+---
+Just a quick reminder that we're having an Xcoders meeting this thursday (May 14th).
+
+It's an open topic forum - discussing lessons learned with iPhone development with the good folks from Black Pixel Luminance (that would be Kyle and Dan, maybe some others if they get dragged along).
+
+Remember to be at the 4th & Madison building well before 7pm if you're coming - the elevators stop moving up at 7pm. We'll hold the forum start until 7pm, but please plan to be here around 6:30pm.
+

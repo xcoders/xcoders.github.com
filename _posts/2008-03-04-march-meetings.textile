@@ -1,0 +1,8 @@
+--- 
+layout: post
+author: Joseph Heck
+title: March Meetings
+---
+Our next meeting is Mar 13th where the indefatigable Brent Simmons will be providing us with a technology tour of NetNewsWire; showing off Core Data and using Garbage Collection.
+
+The second meeting in March is on the 27th and is intended to be the "iPhone SDK" meeting. Can't really say much more about it, since Apple missed their deadline of "releasing it in February", but I expect we'll have something ready for then regardless.

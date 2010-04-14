@@ -1,0 +1,16 @@
+--- 
+layout: post
+author: Joseph Heck
+title: WWDC right around the corner
+---
+Yep! "WWDC":http://developer.apple.com/wwdc/ is right around the corner. There's a number of gatherings to do-dads to get involved with, and they're all pretty well published, so I won't repeat them here.
+
+To the topic of the XCoders group in Seattle, this means (as mentioned in the previous post) that we won't be having our regular meeting on August 10th, but we will be syncing up again on August 24th.
+
+And if you hadn't spotted the news on the mailing list, our own George is hitting the road and moving to sunny southern california to follow his chosen profession - coding on the Mac. Yep, that means we're down to one SIG leader (er, that would be me...) and I'm looking for someone else who would be interested in helping out and being a part of the organizing structure.
+
+Drop me an email or such, or "post on the mailing list":mailto:xcoder-talk@lists.seattlexcoders.org to let me know if you're interested.
+
+See you when we get back!
+
+-joe

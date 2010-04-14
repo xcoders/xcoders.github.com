@@ -1,0 +1,6 @@
+--- 
+layout: post
+author: Andrew Carter
+title: Announcing new mailing lists
+---
+The mailman based <a href="http://lists.seattlexcoders.org">mailing lists</a> are now live.  The status of the Yahoo! group will be determined at a future Xcoder's meeting.  Please sign up and carry the discussions over to the new list.

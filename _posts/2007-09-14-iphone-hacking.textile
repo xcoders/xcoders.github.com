@@ -1,0 +1,12 @@
+--- 
+layout: post
+author: Joseph Heck
+title: iPhone hacking
+---
+Tonight's meeting (iPhone hacking) had an odd turnout - about the same number of folks, but most of them weren't regulars. Not quite sure what that's about really.
+
+Anyway, I took a couple of pics of Lucas doin' his thing and showing us some of the details of writing code to run on the iPhone (not javascript...) Thought they might be of interest:
+
+<a href="http://www.flickr.com/photos/joseph_heck/1376666154/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1284/1376666154_8e10fc88c2_m.jpg" width="240" height="180" alt="Lucas Newman" /></a>
+
+<a href="http://www.flickr.com/photos/joseph_heck/1375778997/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1286/1375778997_cd429fa12b_m.jpg" width="180" height="240" alt="iSight displaying iPhone for hack night" /></a>

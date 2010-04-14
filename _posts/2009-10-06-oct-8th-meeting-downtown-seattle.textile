@@ -1,0 +1,12 @@
+--- 
+layout: post
+author: Joseph Heck
+title: Oct 8th Meeting - downtown Seattle
+---
+Oct 8th double header!!!
+
+Hal Mueller - mapping on the iPhone, outside of the new MapKit API, with his surprise "blow up" prop
+
+Kris Markel - push notifications
+
+And to the <a href="http://www.luaupolynesianlounge.com/">Luau</a> afterwards, of course...

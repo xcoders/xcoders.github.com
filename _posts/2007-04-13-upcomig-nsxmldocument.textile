@@ -1,0 +1,8 @@
+--- 
+layout: post
+author: Joseph Heck
+title: Upcoming - NSXMLDocument
+---
+April 26th : Learn the wonders of NSXMLDocument as Brent Simmons develops a Twitter client application before your very eyes! 
+
+May 10th : Working the Objective-C runtime to build a bridge to a scripting language. Ryan, a UW student, talks about the bridge he built to a custom music-oriented scripting language.

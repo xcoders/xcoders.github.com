@@ -1,0 +1,6 @@
+--- 
+layout: post
+author: Andrew Carter
+title: Next meeting Thursday 3/8
+---
+Andrew Carter on Cocoa Scripting Bridge

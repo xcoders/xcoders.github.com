@@ -1,0 +1,12 @@
+--- 
+layout: post
+author: Joseph Heck
+title: Feb 12th Meeting - iPhone internals for beginners
+---
+Our meeting on February 12th (downtown Seattle - 4th & Madison Building) will be by....  me! (Joe Heck)
+
+I'm going to take the opportunity to inflict a bit of tutorial/workshop effort that I've created upon whomever attends, seeing how it flows and getting feedback.
+
+Specifically, I'm aiming to describe to folks new to the iPhone & Cocoa frameworks how the whole package (nibs, frameworks, etc) all zip together and where best to put in your code for control, effect, design, etc.
+
+The working title for this is current "the guts of the iPhone frameworks - how it all links together".

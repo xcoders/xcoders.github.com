@@ -1,0 +1,10 @@
+--- 
+layout: post
+author: Joseph Heck
+title: "Next meeting: Sept 25th"
+---
+The next meeting is Sept 25th - back at the dBug resource center. The meeting's topic: iPhone performance: Tips and Tricks.
+
+Expect a round-table and open discussion on "how the hell did you deal with..." sorts of questions related to the constrained memory environment associated with iPhone development.
+
+The meeting yesterday was, without a doubt, the largest of the year - I counted 51 folks in attendance. A huge thank you again to Google for the impromptu offering of a space suitable and to <a href="http://www.kernelthread.com/">Amit</a> for taking some time out of his evening in Seattle to talk with us and answer our varied questions.

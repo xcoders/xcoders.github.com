@@ -1,0 +1,8 @@
+--- 
+layout: post
+author: Andrew Carter
+title: Support dBug
+---
+The "dBug":http://dbug.org user group has hosted the Seattle Xcoders group for nearly two years. Please help support both dBug and Xcoders by "becoming a member":http://dbug.org/about/join.shtml. dBug has many other great benefits and supporting dBug helps keep groups like Xcoder going.
+
+Please note that you are a member of Xcoders during the sign up.

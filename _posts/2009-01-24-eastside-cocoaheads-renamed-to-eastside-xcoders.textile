@@ -1,0 +1,10 @@
+--- 
+layout: post
+author: Joe Jones
+title: Eastside CocoaHeads renamed to Eastside Xcoders
+---
+Hi all,
+
+During the meeting we decided that naming us CocoaHeads implied a split in the group that wasn't really there. All of us are Xcoder members and we felt that our name should reflect that. We resolved to change the name to Eastside Xcoders from here on out.
+
+So, goodbye Eastside CocoaHeads and welcome to the Eastside Xcoders!

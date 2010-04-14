@@ -1,0 +1,6 @@
+--- 
+layout: post
+author: Joseph Heck
+title: Sept 27th meeting
+---
+John Chaffee will be demonstrating a new application under development for synchronizing iCal calendars over a local area network using Apple Sync Services and Bonjour. John will soon launch the app as an independent Mac developer and welcomes feedback and suggestions from fellow Mac indie developers.

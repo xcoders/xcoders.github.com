@@ -1,0 +1,10 @@
+--- 
+layout: post
+author: Joseph Heck
+title: December meeting - CoreAnimation
+---
+December's meeting is all about CoreAnimation. Lucas Newman, of Delicious Monster and iPhone hackery fame, is going to show a number of demonstrations and examples of CoreAnimation for us, and how to "make it go".
+
+This is our only meeting in December - that whole "holidays" thing taking up the other normal time slot. We'll resume normally with the first meeting of 2008 being January 17th (the 2nd Thursday).
+
+Come on by thursday evening (Dec 13th), 7pm at the <a href="http://www.seattlexcoders.org/directions">dBug Resource Center</a>.

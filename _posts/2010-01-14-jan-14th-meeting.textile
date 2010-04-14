@@ -1,0 +1,12 @@
+--- 
+layout: post
+author: Joseph Heck
+title: Jan 14th Meeting
+---
+Hal Mueller will be presenting "Practical Quartz Composer" - 
+
+Using quartz composer with an eye towards data visualization and/or business graphics.
+
+Please arrive BEFORE 7pm, as the building doors are locked for external access at that time. On street parking is likely the best - parking is available in the building, but at some cost.
+
+The entrance is on 4th Ave or 3rd Ave. Come in and head up to the 16th floor.

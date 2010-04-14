@@ -1,0 +1,6 @@
+--- 
+layout: post
+author: Andrew Carter
+title: Sep 23 Meeting - Open Topics
+---
+The Eastside Xcoders meeting is at 7 PM at Thinkspace in Redmond. There is currently no planned presentation so it will be an open session.

@@ -1,0 +1,10 @@
+--- 
+layout: post
+author: Joseph Heck
+title: Upcoming... dTrace
+---
+For the next meeting, Y.T. will be giving a "dTrace 101" talk. A feature embedded deep in Leopard, so I thought I'd take some time to get a basics/primer rolling and pass along the information.
+
+That'll be on April 12th, dBug resource center, 7pm. Check out our "directions":http://www.seattlexcoders.org/directions for details on getting there if you want 'em.
+
+The meeting there-after is open if someone wants to (hint hint) volunteer. At some point in the future, we have a meeting lined up on MacFUSE - yet to be scheduled though.

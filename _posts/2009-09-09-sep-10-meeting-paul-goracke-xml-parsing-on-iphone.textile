@@ -1,0 +1,6 @@
+--- 
+layout: post
+author: Andrew Carter
+title: "Sep 10 Meeting - Paul Goracke - XML parsing on iPhone "
+---
+Paul Goracke will be giving a presentation on XML parsing on iPhone. Meeting is at 6:30 PM at the Disney offices.

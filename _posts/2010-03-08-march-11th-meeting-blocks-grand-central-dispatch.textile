@@ -1,0 +1,12 @@
+--- 
+layout: post
+author: Joseph Heck
+title: March 11th meeting - Blocks &#38; Grand Central Dispatch
+---
+Evening All,
+
+The meeting this thursday (3/11) at the Disney offices is ON!!!
+
+Rick Gordon will be playing host instead of me this time. Otherwise, it's the same bat time, same bat channel.
+
+The topic is "Blocks & Grand Central Dispatch", being provided by Rogue Sheep'r Chris Parrish.

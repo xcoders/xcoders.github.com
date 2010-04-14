@@ -1,0 +1,8 @@
+--- 
+layout: post
+author: Joseph Heck
+title: August 13 meeting cancelled
+---
+Apologies for the late notice, but the August 13th meeting has been cancelled due to a conflict with the space hosting our meeting for that evening. 
+
+We'll reschedule Hal's talk for another presentation.

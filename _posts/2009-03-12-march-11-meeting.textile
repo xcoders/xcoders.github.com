@@ -1,0 +1,10 @@
+--- 
+layout: post
+author: Joseph Heck
+title: March 12 Meeting
+---
+Hans-Martin Will will be talking to us about OpenGL ES (http://www.vincent3d.com/) - it's background related to the iPhone and associated current interests...
+
+The meeting is at our downtown location (4th & Madison) at 
+<b>6:30pm</b>.
+

@@ -1,0 +1,10 @@
+--- 
+layout: post
+author: Joseph Heck
+title: Sept 23rd Meeting - Hal Mueller iPhone Graphics API lessons learned
+---
+Hal reports:
+
+I'm still going to do UIScrollView...  Am tinkering now with Quartz drawing and hope also to look at OpenGL ES in the next few days by way of the "Molecules" app. 
+
+So maybe title "iPhone Graphics API lessons learned", or roundtable, or something, to include UIScrollview, and a comparison of Quartz vs GL ES.

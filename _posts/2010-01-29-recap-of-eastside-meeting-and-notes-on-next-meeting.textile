@@ -1,0 +1,18 @@
+--- 
+layout: post
+author: Joe Jones
+title: Recap of Eastside meeting and notes on next meeting
+---
+We had a record turnout last night with double the attendance and a lot of new faces. I'd like to says "Welcome!" to all the new people who showed up and I hope to see you all at the next meeting!
+
+Last night we had a good discussion about the Cocoa Design Patterns book and MVC and Gerard gave a good, if short, presentation on Grand Central Dispatch.
+
+All in all a good meeting.
+
+Next meeting will be February 25th. The agenda will be:
+
+1) Discussion about chapters 3, 4 & 5 in Cocoa Design Patterns, lead by Jeff Szuhay.
+2) A presentation on Field Editor and NSCell by Joe Jones.
+3) Free talk and discussion.
+
+I hope to see everyone there.

@@ -1,0 +1,18 @@
+--- 
+layout: post
+author: Joe Jones
+title: Wrap up of 6/25 Eastside meeting and notes on next meeting
+---
+Tonight was a good night. Lots of good discussion. We came up with a presentation schedule for the next few meetings.
+
+July 23rd: Andrew Carter , Mac Ruby
+August: Gerard Hickey: Core Animation
+September: Joe: NSCell & Field Editor
+October: Bo: Core Data/Bindings
+November: Joe: Scripting a Cocoa Application
+December: Gerard Hickey: Grand Central Dispatch
+January: Wayne Hasley: OpenAL/Core Audio
+February: Bo: OpenCL
+
+
+There was talk about scheduling a second meeting on the Eastside to handle those who may want a more basic introduction to Cocoa, iPhone, etc. If there is any interest in this, drop me a line and let me know.

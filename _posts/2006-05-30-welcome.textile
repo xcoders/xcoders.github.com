@@ -1,0 +1,6 @@
+--- 
+layout: post
+author: Andrew Carter
+title: Welcome
+---
+Welcome to the new home for the Seattle Xcoders user group.  This site will evolve as we create more content in the group.  Some great features include new mailman mailing lists, a subversion and trac site for shared open source projects, and a member directory.  Your suggestions and comments are appreciated.  Send them to <a href="mailto:admin@seattlexcoders.org">admin@seattlexcoders.org</a>.

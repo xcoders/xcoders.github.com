@@ -1,0 +1,9 @@
+--- 
+layout: post
+author: Joseph Heck
+title: November 12th meeting - Jeremy Przasnyski - Ideascale
+---
+Jeremy Przasnyski - talking about ideascale.
+
+From Jeremy:
+I've been working on a feedback plugin for iPhone apps that uses ideascale.com, which is run by a friend of mine. It allows users to suggest features, bug fixes, etc in any app you develop. Users also vote up/down the ideas so you can determine what the really want & implement it next.

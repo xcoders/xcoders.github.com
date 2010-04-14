@@ -1,0 +1,22 @@
+--- 
+layout: post
+author: Joseph Heck
+title: April 8th Meeting
+---
+Let's see... what should we talk about. Nothin' really big is going on, nobody is expecting anything new in the next week or so...
+
+Here's our presentation then:
+
+
+		Paul Goracke will be presenting about Tax Accounts & Running a MAC ISV!!!
+
+
+
+
+
+
+
+
+.... NOT! .... early april fools - but I don't wan to wait to get our the news...
+
+Of course we'll be talking about the iPad. Kris Markel (Developer at Zumobi & UW instructor for Mac/iPhone goodness) will be talking about what's new and different for developing on the iPad. If ya got code and apps,. bring'm for a good round of Show 'n' Tell as well, and we'll dive into details, differences, and share some ideas on what might be coming next.

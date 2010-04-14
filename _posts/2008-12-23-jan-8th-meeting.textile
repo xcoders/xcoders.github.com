@@ -1,0 +1,16 @@
+--- 
+layout: post
+author: Joseph Heck
+title: Jan 8th Meeting
+---
+Happy Holidays and all the good stuff. If you're in the Seattle area, please be safe over the next week. It's awfully nice having a "white christmas" but I don't want to see anyone hurt.
+
+Our first meeting of 2009 will be Jan 8th in our new downtown location - the Disney Interactive Media Group offices in Seattle. 
+
+The meeting time is slightly changed as well - please arrive around 6:30pm, and no later than 7pm. Disney's offices are in the 4th & Madison building (used to be called the IDX building) at 925 Fourth Ave, and the external doors are locked at 7pm.
+
+The entrances to the office are on <a href="http://maps.google.com/maps?f=q&hl=en&geocode=&q=925+4th+Ave,+Seattle,+WA+98104&sll=47.633311,-122.351731&sspn=0.009196,0.016565&g=925+4th+Ave,+Seattle,+WA+98104&ie=UTF8&ll=47.60583,-122.332592&spn=0.009201,0.016565&t=h&z=16&iwloc=addr&layer=c&cbll=47.605914,-122.332677&panoid=cIAt0X6DoviO2mTADrnctA&cbp=12,221.2657615992657,,0,-17.845430754296203">4th Ave</a> and <a href="http://maps.google.com/maps?f=q&hl=en&geocode=&q=925+4th+Ave,+Seattle,+WA+98104&sll=47.633311,-122.351731&sspn=0.009196,0.016565&g=925+4th+Ave,+Seattle,+WA+98104&ie=UTF8&t=h&layer=c&cbll=47.605423,-122.333901&panoid=0Wyx5AtmfpX_UQ-TkzTauA&cbp=12,26.938491668893107,,0,-6.298555427396508&ll=47.605324,-122.333815&spn=0.0023,0.008283&z=17&iwloc=addr">3rd Ave</a>.  (links are to the Google streetview for convenience)
+
+After entering the building, please head up to the main lobby (off 4th Ave) and enter the elevators for the 16th floor.
+
+The topic of the meeting is <a href="http://code.google.com/p/jscocoa/">JSCocoa</a>, being presented by <a href="http://gusmueller.com/blog/">Gus Meuller</a> of <a href="http://flyingmeat.com/">Flying Meat Software</a>.

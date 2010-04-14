@@ -1,0 +1,15 @@
+--- 
+layout: post
+author: Joe Jones
+title: Eastside Meeting 2/25 7PM
+---
+Meeting is at Thinkspace as usual
+8201 164th Ave NE #200
+Redmond, WA 98052
+"map":http://maps.google.com/maps/place?ftid=0x549072b24e3d371f:0x333fba2709da149e&q=8201%2B164th%2BAve%2BNE,%2BSuite%2B200%2BRedmond%2BWA%2B98052&gl=us
+
+Agenda:
+
+1) Discussion about chapters 3, 4 & 5 in Cocoa Design Patterns, lead by Jeff Szuhay.
+2) A presentation on Field Editor and NSCell by Joe Jones.
+3) Free talk and discussion.

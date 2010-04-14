@@ -1,0 +1,14 @@
+--- 
+layout: post
+author: Joe Jones
+title: Feb 26th Eastside Xcoders meeting agenda
+---
+The agenda for the Feb 26th will be as follows:
+
+1) Bo Gervang will give a presentation on Blocks in Snow Leopard.
+2) Jeff Szuhay discuss Ironcoders and walk us through his entry to the contest.
+3) We will discuss the first three chapters of Advanced OS X.
+
+From there we will move onto the after meeting socializing at McCormick & Schmicks ($2 1/2lbd Angus Burgers! With Fries!).
+
+Hope to see you all there!

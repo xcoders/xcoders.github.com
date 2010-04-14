@@ -1,0 +1,10 @@
+--- 
+layout: post
+author: Joseph Heck
+title: Nov 8 Meeting
+---
+Late notice - yeah, I know. But we're having a meeting tomorrow evening.
+
+The topic for tomorrow is ... the Nerd Ranch! 
+
+Hal Mueller is going to join us and talk about heading to the Big Nerd Ranch for one of their sessions, what it was like, and maybe some of the really interesting tidbits that he learned.

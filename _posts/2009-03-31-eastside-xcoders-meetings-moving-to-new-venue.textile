@@ -1,0 +1,11 @@
+--- 
+layout: post
+author: Joe Jones
+title: Eastside XCoders meetings moving to new venue
+---
+Eastside XCoders will be moving. For our next meeting we will meet at the Crossroads mall in Bellevue.
+
+http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Crossroads+Bellevue,+WA&sll=37.0625,-95.677068&sspn=37.683309,59.414063&ie=UTF8&z=14&iwloc=addr
+
+Same Bat Time: 7 PM. We'll meet at the tables in front of the Library.
+

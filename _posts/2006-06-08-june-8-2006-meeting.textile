@@ -1,0 +1,6 @@
+--- 
+layout: post
+author: Andrew Carter
+title: June 8, 2006 Meeting
+---
+Kevin Purcell will be showing us the goodies from Chapters 11 and 12 of Advanced Cocoa Programming book (Hillegaas, et al).

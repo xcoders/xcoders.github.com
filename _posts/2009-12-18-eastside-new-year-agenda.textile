@@ -1,0 +1,12 @@
+--- 
+layout: post
+author: Joe Jones
+title: Eastside New Year Agenda
+---
+For the New Year, we plan on kicking off a new item. We will have a study group to go over the book "Cocoa Design Patterns". Each meeting we will assign a chapter of the book for reading and the next meeting one person will lead a discussion about the material. This will go along with presentations and normal meeting talk/free time.
+
+The Agenda for the next meeting on January 28th will be:
+
+1) Presentation on Grand Central Dispatch by Gerard Hickey.
+2) Discussion about the first chapter of the book "Cocoa Design Patterns" by Joe Jones.
+3) Free/open discussion.

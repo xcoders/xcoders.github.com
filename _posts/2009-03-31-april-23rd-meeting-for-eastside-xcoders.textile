@@ -1,0 +1,14 @@
+--- 
+layout: post
+author: Joe Jones
+title: April 23rd Meeting for Eastside XCoders
+---
+The current plan of action for our next Eastside meeting will be as follows:
+
+1) Presentation by me on Silverlight. Hopefully using Eclipse4SL toolset on a Mac but technical issues are blocking that right now.
+
+2) We decided to form a small group to work on a game between now and next meeting. At this meeting the group will present what they have, walk through code, talk about issues and solutions, etc.
+
+3) Advanced OS X chp 7-9
+
+I hope to see you all there.

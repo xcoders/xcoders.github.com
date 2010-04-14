@@ -1,0 +1,12 @@
+--- 
+layout: post
+author: Joseph Heck
+title: Jan 24th Meeting
+---
+The upcoming meeting on the 24th is *XCode 3 - The New Stuff*. "Joe Heck":http://www.rhonabwy.com/wp/ will be giving an overview of the new features in XCode 3 and interface building, including snapshots, refactoring support, and "xibs".
+
+We're going to have this meeting at a new location - Getty Images has offered one of their conference rooms, so we'll try it out. They're right down in Fremont - map (hopefully) embedded here to make it easy for y'all to find.
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?f=q&amp;hl=en&amp;geocode=&amp;time=&amp;date=&amp;ttype=&amp;ie=UTF8&amp;om=0&amp;t=h&amp;msa=0&amp;msid=117043045706389484082.0004445980118c30ad6d5&amp;ll=47.649269,-122.35067&amp;spn=0.00305,0.005177&amp;output=embed&amp;s=AARTsJpg3MU6oIrzxDXUPzKs4TdQH4IUGA"></iframe><br /><small><a href="http://maps.google.com/maps/ms?f=q&amp;hl=en&amp;geocode=&amp;time=&amp;date=&amp;ttype=&amp;ie=UTF8&amp;om=0&amp;t=h&amp;msa=0&amp;msid=117043045706389484082.0004445980118c30ad6d5&amp;ll=47.649269,-122.35067&amp;spn=0.00305,0.005177&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+
+Consider taking the bus here if that's at all convenient for you - as I expect parking to be limited in the area.

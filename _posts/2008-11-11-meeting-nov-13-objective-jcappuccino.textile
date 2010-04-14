@@ -1,0 +1,8 @@
+--- 
+layout: post
+author: Joseph Heck
+title: Meeting - Nov 13 - Objective-J/Cappuccino
+---
+<a href="http://www.lazycoder.com/weblog/">Scott Koon</a> will be presenting this Thursday (Nov 13th) on <a href="http://cappuccino.org/">Cappuccino</a> - the objective-j web framework for building applications.
+
+It's our only meeting this month (as the other falls perilously close to Thanksgiving).

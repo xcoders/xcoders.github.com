@@ -1,0 +1,12 @@
+--- 
+layout: post
+author: Joseph Heck
+title: Updated Presentation Calendar
+---
+Since we cancelled the meeting on the 11th, we are kicking back the graphics presentations, pretty much in order. That means "Graphics Month" has been roughly extended into February. All well, it was a nice while it worked...
+
+The upcoming meetings (Google calendar already reflects this): 
+
+* Jan 25 : Chris Parrish - Quartz Composer 
+* Feb 8 : Apple DTS Deric Horn, Matt Formica - Tools, SIGs
+* Feb 22 : Lucas Newman - CoreGraphics 

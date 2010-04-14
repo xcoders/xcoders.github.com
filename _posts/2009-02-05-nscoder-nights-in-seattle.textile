@@ -1,0 +1,12 @@
+--- 
+layout: post
+author: Joseph Heck
+title: NSCoder nights in Seattle
+---
+Evening all,
+
+While I'm working on a topic for our next Xcoders meeting (a week from tomorrow), I wanted to mention on the blog that NSCoder Night in Seattle is going along quite well!
+
+Hal Mueller spun up a regular meeting at Greenlake Zoka's on Tuesday evenings from 7 to 9pm. It's been regularly well attended, so I've added it to our <a href=http://www.seattlexcoders.org/calendar">calendar</a> of events. 
+
+If you're in the area, having some code you're hacking on and want to join like minded folks - then definitely stop by!

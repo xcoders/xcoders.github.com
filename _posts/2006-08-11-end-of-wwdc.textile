@@ -1,0 +1,13 @@
+--- 
+layout: post
+author: Joseph Heck
+title: End of WWDC
+---
+And with today <a href="http://developer.apple.com/wwdc/index.html">WWDC</a> is over for 2006. It's been an excellent conference, and I think that pretty much all of the XCoders who made it there are now completely exhausted. A few of us are heading back today, a few tomorrow. 
+
+There was quite the Seattle showing - with maybe a dozen different folks from Seattle, not even counting the crew from <a href="http://www.delicious-monster.com/">Delicious Monster</a> or <a href="http://www.omnigroup.com/">OmniGroup</a>, both of whom showed up in force.
+
+If you're interested in the keynote, it's <a href="http://www.apple.com/quicktime/qtv/wwdc06/">available online</a> - although frankly I think <a href="http://www.apple.com/macosx/leopard/index.html">the pages they posted about Leopard preview have a great deal more information</a> on them.
+
+It was funny, in fact - hearing about things on the mailing that we didn't at all hear about in the keynote. They've become more clear with the conference, but of course we're under NDA - so don't expect any secret details to get posted here...
+

@@ -1,0 +1,14 @@
+--- 
+layout: post
+author: Joe Jones
+title: New Eastside XCoders meeting location
+---
+Thanx to "ThinkSpace":http://thinkspace.com for providing us with a new location to hold our meetings!
+
+The conference room that we'll be using is on the first floor outside the main entrance. The parking area is on 83rd Ave NE even though the building address is on 164th Ave NE.
+
+"Google Map":http://maps.google.com/maps?rlz=1C1CHMG_en-USUS291US303&sourceid=chrome&um=1&ie=UTF-8&q=thinkspace+redmond&fb=1&split=1&gl=us&cid=0,0,2564567402212837751&ei=2rQPSvX2GZeStAPKnoHvAg&sa=X&oi=local_result&ct=image&resnum=1
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?sourceid=chrome&amp;ie=UTF8&amp;q=thinkspace+redmond&amp;fb=1&amp;split=1&amp;gl=us&amp;cid=0,0,2564567402212837751&amp;ei=2rQPSvX2GZeStAPKnoHvAg&amp;iwloc=A&amp;ll=47.676378,-122.122155&amp;spn=0.006295,0.006295&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?sourceid=chrome&amp;ie=UTF8&amp;q=thinkspace+redmond&amp;fb=1&amp;split=1&amp;gl=us&amp;cid=0,0,2564567402212837751&amp;ei=2rQPSvX2GZeStAPKnoHvAg&amp;iwloc=A&amp;ll=47.676378,-122.122155&amp;spn=0.006295,0.006295&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+
+This will start with our next meeting on 5/28.

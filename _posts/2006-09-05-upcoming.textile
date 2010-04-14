@@ -1,0 +1,17 @@
+--- 
+layout: post
+author: Joseph Heck
+title: Upcoming...
+---
+We are still working on some of the pieces, but we have the next meeting at least planned!
+
+Alf Watt (of <a href="http://www.istumbler.net/">iStumbler</a> fame) is going to be doing a bit on Growl and Bonjour (I still think of the name as Rendezvous).
+
+* growl integration demo
+    * maybe a new growl plugin?
+* demo growl integration in istumbler bonjour plugin
+* implement bonjour service publishing in iStumbler
+
+For future meetings, Joe's moleskine of upcoming meeting ideas is still in progress, and I think we will have a nice collection of topics for this fall. 
+
+In addition, we'll have a little straw-poll at the upcoming meeting. I'd announce it here, but I think the best response will actually be from the physical attendees at the meeting, since it'll be a physical kind of event. If I've whetted your curiousity and you won't be able to make it to the September 14th meeting, just contact me and I'll spill the secret.

@@ -1,0 +1,10 @@
+--- 
+layout: post
+author: Joseph Heck
+title: Upcoming downtown Seattle Xcoders meetings
+---
+August 13th: Hal Mueller talking about mapping on the iPhone and the open source project that he manages.
+
+September 10th: Paul Goracke presenting on XML parsing in the iPhone - dealing with data streams.
+
+Additionally, there's NSCoder nights at <a href="http://maps.google.com/maps?hl=en&q=2200%20North%2056th%20Street%2C%20Seattle%2C%20WA%2098103">Zoka Coffee in Greenlake</a> on tuesday evenings. Nothing formal there, just folks hacking on iPhone code and doing their thing.

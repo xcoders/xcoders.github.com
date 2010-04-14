@@ -1,0 +1,16 @@
+--- 
+layout: post
+author: Joseph Heck
+title: January Schedule - Graphics Month
+---
+Hey, check it out! I'm posting this *before* January's even here!
+
+We've got some cool stuff coming up... January is "graphics month". Didn't really intend that, but hey - it's pretty cool!
+
+* Jan 11th - Chris Parrish of the "Rogue Sheep":http://www.roguesheep.com/ will be talking a little bit about using Quartz Composer.
+
+* Jan 25th - Lucas Newman, one of the "Delicious Monster":http://www.delicious-monster.com/ crew, will be talking about using Core Graphics.
+
+In February, (Feb 8th) we'll have a couple gents from Apple's crew joining us with topics for the open converssation to revolve around development tools and organizing user's groups (like us!) to encourage more developers.
+
+The calendar links to the right (Google's calendar and iCal) are updated through the first meeting in February...

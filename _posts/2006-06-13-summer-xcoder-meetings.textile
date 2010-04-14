@@ -1,0 +1,13 @@
+--- 
+layout: post
+author: Joseph Heck
+title: Summer XCoder Meetings
+---
+Our upcoming schedule is as follows:
+
+<ul>
+<li>June 22nd - Chris (one of the <a href="http://roguesheep.com/">RogueSheep</a>) will be doing a little ditty on CoreImage.</li>
+<li>July 13th - Matt (another <a href="http://roguesheep.com/">RogueSheep</a>) will be talking about using the QuickTime Kit.</li>
+<li>July 27th - George will talking about core audio programming</li>
+<li>August 10th - Nothin : It's WWDC</li>
+</ul>

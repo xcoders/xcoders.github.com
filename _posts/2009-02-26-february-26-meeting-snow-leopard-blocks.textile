@@ -1,0 +1,14 @@
+--- 
+layout: post
+author: Andrew Carter
+title: February 26 meeting - Snow Leopard Blocks
+---
+The agenda for the Feb 26th will be as follows:
+
+* Bo Gervang will give a presentation on Blocks in Snow Leopard.
+* Jeff Szuhay discuss Ironcoders and walk us through his entry to the contest.
+* We will discuss the first three chapters of Advanced OS X.
+
+From there we will move onto the after meeting socializing at McCormick & Schmicks ($2 1/2lb Angus Burgers! With Fries!)
+
+Hope to see you all there!

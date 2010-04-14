@@ -1,0 +1,12 @@
+--- 
+layout: post
+author: Joseph Heck
+title: CoreAnimation examples
+---
+The last meeting of 2007 was fantastic, and we'd like to congratulate Lucas and wish him well as he heads down to Cupertino to joining Apple.
+
+The "presentation and examples from the meeting":http://seattlexcoders.org/shared/Core%20Animation%20Samples.zip are available - you'll need to get a copy of "VoodooPad":http://flyingmeat.com/voodoopad/ to view the presentation. If you don't already own it, just grab the VoodooPad Lite.
+
+Our next meeting will be in January - topic TBD. 
+
+Have a great holiday!

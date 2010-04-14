@@ -1,0 +1,6 @@
+--- 
+layout: post
+author: Andrew Carter
+title: Joe at OSCON 2006
+---
+!http://static.flickr.com/76/196910499_84995acafe.jpg?v=0(Joe Heck at OSCON)!

@@ -1,0 +1,55 @@
+--- 
+layout: post
+author: Joseph Heck
+title: Thanks and farewell to dBug
+---
+Evening all - 
+
+I've got some administrative announcements. Hell - y'all might even want to shoot me for tonight, but I kinda think we'll be fine.
+
+h2. <a href="http://www.dbug.org/">dBug</a>:
+
+First and foremost - I formally dissolved our relationship with the local Macintosh user's group tonight. 
+
+I'm not pissed off at dBug or it's membership. (although I must admit I have some fantasy's about forcefully stuffing my boot into a certain person's mouth) The core of this choice is that dBug was providing us space to meet, but little to nothing else. They're in a tight situation - financially and (I think) socially. Their membership is dwindling hard and fast, and they're loosing both members and volunteers. 
+
+I didn't dissolve our relationship because they were in a tight spot, but because some of their membership was demanding something I didn't want - mandatory membership in dBug to use the resource center. The core of the issue (to me) is that dBug doesn't know what it is, what it wants to be, and doesn't understand it's potential value. Fundamentally, it didn't change with the Internet - organizationally it's still back in the dial-up BBS days and hasn't embraced the internet - the good and bad. It's a walled garden and a private lounge. I appreciate and thank them sincerely for letting us use that private lounge to meet in person.
+
+If you're a member of dBug, please don't take this as a "you must choose between us" sort of thing. I have no animosity towards dBug and wish them the very best. I just prefer to put my volunteer time and effort into maintaining this specific group - not the more general one. If you're interested in the general group and find it valuable, then please continue to be involved with dBug. They're good folk, just a bit misaligned with my version of reality. 
+
+h2. Meeting Locations:
+
+I've been figuring that we'll need to find a new location to meet. I'm still working on the downtown location (the Disney offices) - the bureaucracy just runs a bit slow in large companies... There are other options as well that have yet to be fully investigated, so for now - just assume that meeting locations are a bit up in the air. I'll work to announce with plenty of lead the locations of our meetings until we get stabilized in a new location again.
+
+Oh - and it turns out the locks weren't changed. When I tried the key tonight, it worked like a champ. I heard they'd done some work on the door that week, so maybe I just had to deal with a poorly made key and tightly fitting lock. I'm not sure what happened there... although I guess that's moot now.
+
+h2. Other random changes:
+
+Since I was doing some radical changing, I've also written to the folks running Cocoa Heads to see if they wouldn't mind listed us as a "Seattle Chapter". I believe that practically this means no real changes, as we're already aligned with damn near everything they're doing and most of the folks involved are our common peers. It's another location to get out the word that we exist - and a pretty good one at that.
+
+h2. A thank you email:
+
+<blockquote>
+Finally - I wanted to include you all in the email that I sent the board of directors for dbug, thanking them for their time and resources - and explaining what I was doing and thinking:
+
+I left in the middle of a very important meeting for <a href="http://www.dbug.org/">dBug</a> tonight - the future of dBug. I left the keys that the Xcoder group have used to access the dBug resource center when I did. At the particular moment I was leaving, one of the folks attending the meeting was quite visibly and verbally annoyed that I was bringing 12-20 folks to the resource center and I wasn't demanding that they all be members.
+
+There's honesty in that opinion, and I respect it. That same honesty compelled me to leave. You see - we don't need the space. That was the value that dBug was providing to us. I'm not angry with dBug. I do not feel entitled to use resources that aren't mine. At the same token, the group that's looking to the future of dBug needs to be very, very aware of what value they're providing.
+
+Please don't mis-understand my intentions. Xcoders will find other space to meet, and we will definitely keep meeting. We likely will keep referring folks to dBug while dBug continues to exist. And as before, I'll never demand that anyone in the group join dBug unless they found the value there themselves.
+
+The "Seattle Xcoders" is a successful and vibrant user's group. We have a core group of over a dozen people, with meetings twice monthly that have ranged from 12 to 20 in attendance. We have an online mailing list with over 200 subscribers - from around the world. We are one of many "mac programmers" user's groups across the internet - and we're friends, associates, and occasionally business competition with people across those others groups. We're online as well as physical - what I and many others consider to be a key strength.
+
+When I founded the Xcoders, three years ago with George Storm, we weren't a part of dBug. I'd gone to a few dBug meetings and didn't find what I was looking for: other folks interested in developing for and on the platform that I was enthralled with. After we'd settled into a consistent group and format, we joined dBug as a SIG. The space that dBug provided to meet was easy to access, reasonably central, and there looked to be a potential overlap of interest - at least at the broadest level. That was two years ago.
+
+Since then, I've occasionally asked for, and arranged, donations to dBug from the folks within our group to help support the space we were using. I also encouraged folks to look at dBug and consider joining. Some did - many didn't. I wanted to give back and support the group that was providing the space. As a SIG leader I maintained by membership with dBug through-out. But I never found a common bond outside of my SIG.
+
+I went to the meeting about the future of dBug to bring a different perspective. I was bringing the Mac developers' perspective. We're younger, online, mobile, and damn near always connected  - WIFI or not. We don't want, need, or care about "The Exchange". Mailing lists are great - they're also everywhere and free. When we share our creativity, thoughts, and support - it's also not to a walled garden. It goes onto the Internet, into blogs, onto Twitter, Facebook, and whatever other strange social networking software happens to be available and useful. We get a hell of a lot more leverage by making that information, help, and thought available to the world than to lock it away in a single group of people.
+
+I want to assure you all that you have my best wishes and hopes for dealing with the financial and social issues that are in front of the dBug user's group today. It wasn't the easiest road to take - it means plenty more work for me and some of the others within the group now - but it was the most honest.
+
+Sincerely,
+
+Joseph Heck
+Seattle Xcoders founder
+</blockquote>
