@@ -9,7 +9,7 @@ DRAFTS_DIR = File.join(ROOT_DIR, '_drafts')
 POSTS_DIR = File.join(ROOT_DIR, '_posts')
 
 PUBLISH_HOST = "berlin.joyent.us"
-PUBLISH_PATH = "/users/home/andrewc/web/public"
+PUBLISH_PATH = "/users/home/andrewc/domains/seattlexcoders.org/web/public/v2"
 
 def categories(tags)
   categories = "categories:\n"
