@@ -10,7 +10,7 @@ title: home
   
 # Recent Posts
 
-{% assign posts = site.posts limit:10 %}
+{% assign posts = site.posts limit:5 %}
 {% include postlist.html %}
 
 ##### [Archive](archive.html)
