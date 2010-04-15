@@ -27,8 +27,7 @@
 
 #content {
 	clear: both;
-	float: left;
-	width: 100%;
+	width: 90%;
 }
 
 /*--------------------------------------------------------------
@@ -41,3 +40,37 @@
 	margin-left: auto;
 	margin-right: auto;
 } 
+
+/*--------------------------------------------------------------
+ Sponsors
+ --------------------------------------------------------------*/
+
+#sponsors .sponsor {
+	padding-top: 2em;
+}
+
+/*--------------------------------------------------------------
+ Footer
+ --------------------------------------------------------------*/
+
+#footer {
+	font-size: 1em;
+}
+
+#footer #infomenu {
+	float: left;
+	font-size: 1.5em;
+}
+
+#footer #copyright {
+	float: left;
+	padding-top: 2.5em;
+}
+
+#footer #infomenu .menu li {
+	display: block;
+}
+
+#footer #infomenu .menu li a {
+	border: 0;
+}
