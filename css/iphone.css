@@ -1,8 +1,9 @@
 #sitetitle {
-	font-size: 3em;
+	font-size: 2em;
 	clear: both;
 	float: left;
 	display: inline;
+	padding: 0em;
 }
 
 /*--------------------------------------------------------------
