@@ -1,0 +1,42 @@
+#sitetitle {
+	font-size: 3em;
+	clear: both;
+	float: left;
+	display: inline;
+}
+
+/*--------------------------------------------------------------
+ Navbar
+ --------------------------------------------------------------*/
+#navbar {
+	clear: both;
+	padding: 1em 0em;
+	text-align: left;
+	float: left;
+	font-size: 2em;
+}
+
+#navbar .menu {
+	padding-right: 1em;
+}
+
+/*--------------------------------------------------------------
+ Content
+ --------------------------------------------------------------*/
+
+#content {
+	clear: both;
+	float: left;
+	width: 100%;
+}
+
+/*--------------------------------------------------------------
+ Sidebar
+ --------------------------------------------------------------*/
+
+#sidebar {
+	clear: both;
+	float: left;
+	margin-left: auto;
+	margin-right: auto;
+} 
