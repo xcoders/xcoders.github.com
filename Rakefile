@@ -8,9 +8,6 @@ SITE_DIR = File.join(ROOT_DIR, '_site')
 DRAFTS_DIR = File.join(ROOT_DIR, '_drafts')
 POSTS_DIR = File.join(ROOT_DIR, '_posts')
 
-PUBLISH_HOST = "berlin.joyent.us"
-PUBLISH_PATH = "/users/home/andrewc/domains/seattlexcoders.org/web/public/v2"
-
 def categories(tags)
   categories = "categories:\n"
   if tags
@@ -57,33 +54,32 @@ end
 
 desc "Publish site."
 task :publish => [ :build ] do |t|
-  sh "rsync -avz --delete #{SITE_DIR}/ #{PUBLISH_HOST}:#{PUBLISH_PATH}"
+  #sh "rsync -avz --delete #{SITE_DIR}/ #{PUBLISH_HOST}:#{PUBLISH_PATH}"
+  puts "Commit your posts and changes.\nThen run:\n  git push origin master"
 end
 
 desc "Create a new draft post"
-task :draft, [:title] do |t, args|
-  unless args.title
-    puts "Usage: rake draft[\"Title\"]"
-    exit(-1)
-  end
-  
+task :draft, [:title, :author] do |t, args|
+  title = args.title || "Untitled"
+  author = args.author || `git config --get user.name`.strip
+
   # Create a new file with a basic template
-  postname = args.title.strip.downcase.gsub(/ /, '-')
+  postname = title.strip.downcase.gsub(/ /, '-')
   post = File.join(DRAFTS_DIR, "#{postname}.markdown")
 
   header = <<-END
 ---
 layout: post
-title: #{args.title}
+title: #{title}
+author: #{author}
 ---
 
 New draft post
 
 END
 
-  # Write draft post file
-  File.open(post, 'w') {|f| f << header }
-  
+  mkdir_p(DRAFTS_DIR)
+  File.open(post, 'w') {|f| f << header }  
   edit_post(post)
 
   puts "Created draft post #{post}."
