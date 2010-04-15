@@ -1,0 +1,19 @@
+---
+layout: default
+title: home
+---
+
+{% for post in site.posts limit:3 %}
+{% include postdetail.html %}
+{% endfor %}
+  
+  
+<h1>Recent Posts</h1>
+
+<ul class="posts">
+	{% for post in site.posts offset:3 limit:5  %}
+	<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title | xml_escape }}</a></li>
+	{% endfor %}
+</ul>
+
+<h5><a href="/archive.html">Archive</a></h5>
