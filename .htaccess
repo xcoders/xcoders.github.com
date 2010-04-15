@@ -1,0 +1,16 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  #RewriteBase /relative/web/path/
+
+  RewriteCond %{REQUEST_FILENAME} -f [OR]
+  RewriteCond %{REQUEST_FILENAME} -d
+  RewriteRule ^(.+) - [PT,L]
+
+  RewriteRule ^(.*) index.html
+</IfModule>
+
+Redirect /calendar/xcoder.ics http://www.google.com/calendar/ical/seattlexcoders.org_l9s7riflr8m9j5hbo8quf5iggc%40group.calendar.google.com/public/basic.ics
+Redirect /calendar/xml http://www.google.com/calendar/feeds/seattlexcoders.org_l9s7riflr8m9j5hbo8quf5iggc%40group.calendar.google.com/public/basic
+Redirect /calendar http://www.google.com/calendar/hosted/seattlexcoders.org/embed?src=seattlexcoders.org_l9s7riflr8m9j5hbo8quf5iggc%40group.calendar.google.com&ctz=America/Los_Angeles
+Redirect /rss http://seattlexcoders.org/atom.xml
+Redirect /downloads https://docs.google.com/leaf?id=0BzuECX7-PruNN2ZkOTE5ODctOWRjMS00ZjI2LTgzY2UtZTFkMmNhMzU2MmZk&hl=en
