@@ -8,6 +8,9 @@ SITE_DIR = File.join(ROOT_DIR, '_site')
 DRAFTS_DIR = File.join(ROOT_DIR, '_drafts')
 POSTS_DIR = File.join(ROOT_DIR, '_posts')
 
+PUBLISH_HOST = "berlin.joyent.us"
+PUBLISH_PATH = "/users/home/andrewc/domains/seattlexcoders.org/web/public"
+
 def categories(tags)
   categories = "categories:\n"
   if tags
@@ -54,7 +57,7 @@ end
 
 desc "Publish site."
 task :publish => [ :build ] do |t|
-  #sh "rsync -avz --delete #{SITE_DIR}/ #{PUBLISH_HOST}:#{PUBLISH_PATH}"
+  sh "rsync -avz --delete #{SITE_DIR}/ #{PUBLISH_HOST}:#{PUBLISH_PATH}"
   puts "Commit your posts and changes.\nThen run:\n  git push origin master"
 end
 
