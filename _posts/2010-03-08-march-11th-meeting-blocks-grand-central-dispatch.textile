@@ -1,7 +1,7 @@
 --- 
 layout: post
 author: Joseph Heck
-title: March 11th meeting - Blocks &#38; Grand Central Dispatch
+title: March 11th meeting - Blocks & Grand Central Dispatch
 ---
 Evening All,
 
