@@ -174,7 +174,7 @@ ul span {
 
 #content {
 	float: left;
-	width: 70%;
+	width: 68%;
 }
 
 /*--------------------------------------------------------------
@@ -257,7 +257,7 @@ ul span {
  --------------------------------------------------------------*/
 
 .post {
-	padding: 1.5em 0em 2.0em 0em;
+	padding: 1.5em 1em 2.0em 1em;
 	margin-bottom: 2.0em;
 	border-bottom: 1px solid #ddd;
 }
@@ -353,6 +353,9 @@ ul span {
 }
 
 #sponsors .sponsor {
-	
+	padding-bottom: 2em;
 }
 
+.notice {
+	padding-bottom: 2em;
+}

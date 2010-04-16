@@ -4,10 +4,14 @@
 
 #sitetitle {
 	font-size: 2em;
-	clear: both;
-	float: left;
-	display: inline;
-	padding: 0em;
+	float: right;
+	padding: 1em;
+}
+
+#navbar {
+	background-color: #ffffff;
+	border: 1px solid #ddd;
+	margin-top: 1em;
 }
 
 /*--------------------------------------------------------------
@@ -17,17 +21,17 @@
 #container {
 	font-size: 1.5em;
 	text-align: left;
-	padding: 1em 1em;
-	margin: auto auto;
+	padding: 1em;
+	margin: 1em;
 	line-height: 1.5em;
-	width: 90%;
 }
+
 /*--------------------------------------------------------------
  Navbar
  --------------------------------------------------------------*/
 #navbar {
 	clear: both;
-	padding: 1em 0em;
+	padding: 1em 0.5em;
 	text-align: left;
 	float: left;
 	font-size: 2em;
@@ -38,11 +42,22 @@
 }
 
 /*--------------------------------------------------------------
+ Page
+ --------------------------------------------------------------*/
+
+#page {
+	background-color: #ffffff;
+	border: 1px solid #ddd;
+	float: left;
+	padding: 1em 1em;
+}
+
+
+/*--------------------------------------------------------------
  Content
  --------------------------------------------------------------*/
 
 #content {
-	clear: both;
 	width: 100%;
 }
 
@@ -52,18 +67,8 @@
 
 #sidebar {
 	clear: both;
-	float: left;
-	margin-left: auto;
-	margin-right: auto;
+	display: none;
 } 
-
-/*--------------------------------------------------------------
- Sponsors
- --------------------------------------------------------------*/
-
-#sponsors .sponsor {
-	padding-top: 2em;
-}
 
 /*--------------------------------------------------------------
  Footer
@@ -74,8 +79,13 @@
 }
 
 #footer #infomenu {
+	clear: both;
 	float: left;
 	font-size: 1.5em;
+	background-color: #ffffff;
+	border: 1px solid #ddd;
+	width: 100%;
+	padding-bottom: 2em;
 }
 
 #footer #copyright {
@@ -89,4 +99,13 @@
 
 #footer #infomenu .menu li a {
 	border: 0;
+}
+
+ul span {
+	font-size: 1em;
+}
+
+ul li {
+	line-height: 1em;
+	padding-bottom: 2em;
 }
