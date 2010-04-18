@@ -10,7 +10,7 @@ h2. Group Information
 There are multiple ways to stay in touch:
 * "Mailing list":http://lists.seattlexcoders.org/mailman/listinfo/xcoder-talk
 * "News feed":/atom.xml
-* "iCal":http://www.google.com/calendar/ical/seattlexcoders.org_l9s7riflr8m9j5hbo8quf5iggc%40group.calendar.google.com/public/basic.ics
+* "iCal":webcal://www.google.com/calendar/ical/seattlexcoders.org_l9s7riflr8m9j5hbo8quf5iggc%40group.calendar.google.com/public/basic.ics
 * "@xcoders on twitter":http://www.twitter.com/xcoders
 
 
