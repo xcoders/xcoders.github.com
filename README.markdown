@@ -16,18 +16,21 @@ This is the source for the [Seattle Xcoders](http://seattlexcoders.org) web site
 
 
 # Create a post
+
 * rake draft[<post_title>, <author>]
   by default, post should use your GitHub name so you can omit the author field if you want
   Your default editor should open up the post file
   Posts by default are in markdown. If you prefer HTML, change the name to .html. If you prefer Textile, use .textile. I can add rake options to change the preferred format if you wish
 * Edit the post file in any editor you want. I use TextMate which has nice syntax enhancements for Markdown and Textile. See _posts/* for examples of posts.
 * rake post[<post_title>]
-  Moves from the _drafts folder to _posts folder. Think of this as staging your post. You can now see it when you run the local jekyll server.
+  Moves from the `_drafts` folder to `_posts` folder. Think of this as staging your post. You can now see it when you run the local jekyll server.
 
 # Local server
+
 * Run rake server to launch a local webrick with the site. Navigate to http://localhost:3000 to view the site. You can edit the post file all you want and see the changes automatically.
 
 # Publish post live:
+
 * When you are ready to publish the post live:
 
 	git add _posts/<postfile>
@@ -108,7 +111,7 @@ The site structure is as follows:
 	</tr>
 </table>
 
-**DON'T EDIT STUFF IN _site/**
+**DON'T EDIT STUFF IN `_site`/**
 
 If you change something there it will be overwritten the next time the site is regenerated. It's the "build" directory.
 
