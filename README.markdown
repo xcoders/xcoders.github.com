@@ -11,6 +11,8 @@ This is the source for the [Seattle Xcoders](http://seattlexcoders.org) web site
 * Check out source: git clone git@github.com:xcoders/xcoders.github.com.git
 * Install jekyll (http://github.com/mojombo/jekyll) and dependencies so you can test site locally:
 
+Install the following gems:
+
 	sudo gem install jekyll RedCloth liquid maruku classifier directory_watcher open4
 	sudo easy_install Pygments (for syntax highlighting in posts)
 
@@ -18,12 +20,16 @@ This is the source for the [Seattle Xcoders](http://seattlexcoders.org) web site
 # Create a post
 
 * rake draft[<post_title>, <author>]
+
   by default, post should use your GitHub name so you can omit the author field if you want
   Your default editor should open up the post file
   Posts by default are in markdown. If you prefer HTML, change the name to .html. If you prefer Textile, use .textile. I can add rake options to change the preferred format if you wish
+
 * Edit the post file in any editor you want. I use TextMate which has nice syntax enhancements for Markdown and Textile. See _posts/* for examples of posts.
+
 * rake post[<post_title>]
   Moves from the `_drafts` folder to `_posts` folder. Think of this as staging your post. You can now see it when you run the local jekyll server.
+
 
 # Local server
 
@@ -31,7 +37,7 @@ This is the source for the [Seattle Xcoders](http://seattlexcoders.org) web site
 
 # Publish post live:
 
-* When you are ready to publish the post live:
+When you are ready to publish the post live:
 
 	git add _posts/<postfile>
 	git commit
