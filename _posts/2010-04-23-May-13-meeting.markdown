@@ -1,0 +1,12 @@
+--- 
+layout: post
+author: Joe Heck
+title: May 13th meeting
+date: 2010-04-23 20:03:01
+---
+
+Upcoming this may...
+
+## Thursday May 13
+
+Geoffrey Grosenbach from [TopFunky.com](http://topfunky.com/) is going to be speaking about his process for creating Help Files using VoodooPad and a bit of additional applescript and shell scripting.
