@@ -8,7 +8,7 @@ title: home
 {% endfor %}
   
   
-<h1>Recent Posts</h1>
+# Recent Posts
 
 <ul class="posts">
 	{% for post in site.posts offset:3 limit:5  %}
@@ -16,4 +16,4 @@ title: home
 	{% endfor %}
 </ul>
 
-<h5><a href="/archive.html">Archive</a></h5>
+## [Archive](/archive.html)
