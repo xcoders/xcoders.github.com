@@ -22,8 +22,8 @@ end
 def parse_post(post)
   raise Exception.new("Invalid post file format") unless post[0] = "---"
   eoh = post[1, post.length].index("---\n") + 1
-  header = YAML.load(post[1, eoh].to_s)
-  body = post[eoh + 1, post.length]
+  header = YAML.load(post[1, eoh].join)
+  body = post[eoh + 1, post.length].join
   return header, body
 end
 
@@ -47,12 +47,12 @@ end
 
 desc "Generate site."
 task :build do
-  sh "jekyll"
+  sh "jekyll --time \"#{Time.now}\""
 end
 
 desc "Run local jekyll server"
 task :server, [:port] do |t, args|
-  sh "jekyll --server #{args.port || 4000} --auto"
+  sh "jekyll --server #{args.port || 4000} --auto --time \"#{Time.now}\""
 end
 
 desc "Publish site."
