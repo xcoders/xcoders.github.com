@@ -1,3 +1,4 @@
+markdown: redcarpet
 pygments: true
 permalink: date
 google_analytics_code: UA-863684-1
