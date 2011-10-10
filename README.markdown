@@ -9,12 +9,18 @@ This is the source for the [Seattle Xcoders](http://seattlexcoders.org) web site
 * Project is owned by xcoders user account on GitHub with all three of us as collaborators (meaning we can all push code to it)
 * Project is http://github.com/xcoders/xcoders.github.com
 * Check out source: git clone git@github.com:xcoders/xcoders.github.com.git
-* Install jekyll (http://github.com/mojombo/jekyll) and dependencies so you can test site locally:
+* Recommend using rbenv with Ruby 1.9.2 or later
 
-Install the following gems:
+* Install pygments for source code syntax highlighting:
 
-	sudo gem install jekyll RedCloth liquid maruku classifier directory_watcher open4
-	sudo easy_install Pygments (for syntax highlighting in posts)
+    sudo easy_install Pygments
+
+* Install gems via bundler:
+
+    cd xcoders.github.com
+    bundle install --path vendor/bundle
+    bundle install --binstubs
+    echo ".bundle\nbin\nvendor/bundle/ruby\n" >> .gitignore
 
 
 # Create a post
