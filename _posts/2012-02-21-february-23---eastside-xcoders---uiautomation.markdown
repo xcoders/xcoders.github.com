@@ -1,6 +1,6 @@
 ---
 layout: post
-title: February 23 - Eastside Xcoders - UIAutomationn
+title: February 23 - Eastside Xcoders - UIAutomation
 author: Andrew Carter
 date: 2012-02-21 21:36:06
 ---
