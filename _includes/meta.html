@@ -1,5 +1,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<title>Seattle Xcoders - {{ page.title }}</title>
+<title>
+    {% if page.title == 'index' %}
+        Seattle Xcoders
+    {% else %}
+        {{page.title}}  &middot; Seattle Xcoders
+    {% endif %}
+</title>
 <link href="/atom.xml" rel="alternate" title="Atom" type="application/atom+xml" />
 <link rel="stylesheet" href="/css/site.css" type="text/css" media="screen, projection" />
 <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
@@ -9,3 +15,4 @@
 <link rel="stylesheet" media="all and (orientation:portrait)" href="/css/portrait.css" type="text/css" />
 <link rel="stylesheet" media="all and (orientation:landscape)" href="/css/landscape.css" type="text/css" />
 <link rel="shortcut icon" href="/images/favicon.png" />
+<link rel="apple-touch-icon" href="/images/xcoders.png" />
