@@ -4,5 +4,9 @@ permalink: date
 google_analytics_code: UA-863684-1
 url: http://www.seattlexcoders.org/
 exclude:
+- bin
+- Gemfile
+- Gemfile.lock
 - Rakefile
 - README.markdown
+- vendor
