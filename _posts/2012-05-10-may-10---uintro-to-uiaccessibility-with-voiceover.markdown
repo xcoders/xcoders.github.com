@@ -1,6 +1,6 @@
---- 
+---
 layout: post
-title: May 10 - UIntro to UIAccessibility with VoiceOver
+title: May 10 - Intro to UIAccessibility with VoiceOver
 author: Andrew Carter
 date: 2012-05-10 13:04:53
 ---
