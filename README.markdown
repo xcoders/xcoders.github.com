@@ -4,42 +4,42 @@ This is the source for the [Seattle Xcoders](http://seattlexcoders.org) web site
 
 # Install:
 
-* Install recent version of git
-* Register for github account and give me your id (I think I have added both of you as collaborators to the project)
-* Project is owned by xcoders user account on GitHub with all three of us as collaborators (meaning we can all push code to it)
-* Project is http://github.com/xcoders/xcoders.github.com
-* Check out source: git clone git@github.com:xcoders/xcoders.github.com.git
-* Recommend using rbenv with Ruby 1.9.2 or later
+1. Install recent version of git
+2. Project is http://github.com/xcoders/xcoders.github.com
+3. Check out source: git clone git@github.com:xcoders/xcoders.github.com.git
+4. Recommend using rbenv with Ruby 1.9.2 or later
+5. Install pygments for source code syntax highlighting: 
+ 
+        sudo pip install Pygments
 
-* Install pygments for source code syntax highlighting:
+6. Install gems via bundler:  
 
-    sudo easy_install Pygments
-
-* Install gems via bundler:
-
-    cd xcoders.github.com
-    bundle install --path vendor/bundle
-    bundle install --binstubs
-    echo ".bundle\nbin\nvendor/bundle/ruby\n" >> .gitignore
+        cd xcoders.github.com
+        bundle install --path vendor/bundle
+        bundle install --binstubs
+        echo ".bundle\nbin\nvendor/bundle/ruby\n" >> .gitignore
 
 
 # Create a post
 
-* rake draft[<post_title>, <author>]
+## draft
 
-  by default, post should use your GitHub name so you can omit the author field if you want
-  Your default editor should open up the post file
-  Posts by default are in markdown. If you prefer HTML, change the name to .html. If you prefer Textile, use .textile. I can add rake options to change the preferred format if you wish
+    rake draft[<post_title>, <author>]
 
-* Edit the post file in any editor you want. I use TextMate which has nice syntax enhancements for Markdown and Textile. See _posts/* for examples of posts.
+By default, post should use your GitHub name so you can omit the author field if you want. Your default editor should open up the post file. Posts by default are in markdown. If you prefer HTML, change the name to .html. If you prefer Textile, use .textile. I can add rake options to change the preferred format if you wish.
 
-* rake post[<post_title>]
-  Moves from the `_drafts` folder to `_posts` folder. Think of this as staging your post. You can now see it when you run the local jekyll server.
+Edit the post file in any editor you want. See _posts/* for examples of posts.
+
+## post
+
+    rake post[<post_title>]
+
+Moves from the `_drafts` folder to `_posts` folder. Think of this as staging your post. You can now see it when you run the local jekyll server.
 
 
 # Local server
 
-* Run rake server to launch a local webrick with the site. Navigate to http://localhost:3000 to view the site. You can edit the post file all you want and see the changes automatically.
+Run rake server to launch a local webrick with the site. Navigate to http://localhost:3000 to view the site. You can edit the post file all you want and see the changes automatically.
 
 # Publish post live:
 
