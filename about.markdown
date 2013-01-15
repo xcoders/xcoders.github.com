@@ -14,13 +14,21 @@ There are multiple ways to stay in touch:
 * [iCal][ical]
 * [@xcoders on twitter][twitter]
 
-# Seattle (second Thursday of the month)
+# Join Us!
+
+Meetings are completely free to attend without pre-arrangement. Just show up.
+
+# Speak to Us!
+
+Presentations are given almost entirely by fellow attendees, and we strongly encourage continuing that tradition. If you have a topic you'd like to present, let us know in person at a meeting, or send an email to [info@seattlexcoders.org][mailinfo]
+
+# Seattle (second Thursday of each month)
 
 Our Seattle meetings currently have a rotating set of meeting locations. Please check the meeting announcement for the current location of the upcoming meeting.
 
 The meetings start at 7pm and usually go for an hour, sometimes longer.
 
-# Redmond (fourth Thursday of the month)
+# Redmond (fourth Thursday of each month)
 
 The second monthly meeting is on the Eastside in Redmond at [thinkspace] at 7 PM.
 
@@ -29,6 +37,10 @@ The conference room that we'll be using is on the first floor outside the main e
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?sourceid=chrome&amp;ie=UTF8&amp;q=thinkspace+redmond&amp;fb=1&amp;split=1&amp;gl=us&amp;cid=0,0,2564567402212837751&amp;ei=2rQPSvX2GZeStAPKnoHvAg&amp;iwloc=A&amp;ll=47.676378,-122.122155&amp;spn=0.006295,0.006295&amp;output=embed"></iframe>
 <br />
 <small><a href="http://maps.google.com/maps?sourceid=chrome&amp;ie=UTF8&amp;q=thinkspace+redmond&amp;fb=1&amp;split=1&amp;gl=us&amp;cid=0,0,2564567402212837751&amp;ei=2rQPSvX2GZeStAPKnoHvAg&amp;iwloc=A&amp;ll=47.676378,-122.122155&amp;spn=0.006295,0.006295&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+
+# NSCoder Night (every Tuesday night)
+
+NSCoder Night is held Tuesday evenings at [Wayward Coffeehouse](http://www.waywardcoffee.com), [6417 Roosevelt Way NE, Seattle](http://goo.gl/maps/naK2r). It is an informal gathering where people can code, talk shop, ask and answer questions, and find some willing victims for project demonstrations. There is no program, and there is a wide range of experience levels. We're generally there from about 7 until about 10, with people dropping in all through the evening. Look for the Xcoders reserved table in the back.
 
 ## Contact
 
@@ -41,3 +53,4 @@ Please email questions and suggestions to [info@seattlexcoders.org][mailinfo]
 [twitter]: http://www.twitter.com/xcoders
 [thinkspace]: http://thinkspace.com
 [mailinfo]: mailto:info@seattlexcoders.org
+[waywardcoffe]: http://www.waywardcoffee.com
