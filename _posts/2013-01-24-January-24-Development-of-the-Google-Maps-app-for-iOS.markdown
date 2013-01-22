@@ -1,6 +1,6 @@
 ---
 layout: post
-title: January 24 - Development of Google Maps app for iOS
+title: January 24 - Development of the Google Maps app for iOS
 author: @CascadeRam
 date: 2013-01-21 
 ---
