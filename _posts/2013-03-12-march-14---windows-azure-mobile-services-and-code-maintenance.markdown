@@ -7,7 +7,7 @@ date: '2013-03-12 19:42:46'
 
 March's Seattle meeting will be Thursday, March 14 at 7PM. Josh Twist will talk about Microsoft's Windows Azure Mobile Services, followed by Paul Goracke on lessons learned from maintaining other people's code.
 
-This month's meeting will be held at [The Omni Group](http://www.omnigroup.com/): [1000 Dexter Ave N, Suite 400](http://goo.gl/maps/j0Rxc) (just north of the corner of Aloha St, on the east side of the street). There is paid parking available underneath the building. Enter the lot on Dexter Avenue at the south end of the building. 
+This month's meeting will be held at [The Omni Group](http://www.omnigroup.com/): [1000 Dexter Ave N, Suite 400](http://goo.gl/maps/j0Rxc) (just north of the corner of Aloha St, on the east side of the street). The building's garage closes at 6pm; neighborhood street parking is free after 6pm.
 
 There may be access via the elevator, but for now assume you should meet on the 1st floor to be taken up to Omni's offices.
 
