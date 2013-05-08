@@ -9,7 +9,7 @@ This is the home for the Seattle Xcoders. Our focus is primarily on the family o
 
 There are multiple ways to stay in touch:
 
-* [Mailing list][mailinglist]
+* <del>Mailing list</del> (Currently unavailable)
 * [News feed][newsfeed]
 * [iCal][ical]
 * [@xcoders on twitter][twitter]
