@@ -1,7 +1,7 @@
 ---
 layout: post
 title: July 26 - AV Foundation for iOS
-author: @CascadeRam
+author: Rammanohar Arumugam
 date: 2012-07-24 
 ---
 

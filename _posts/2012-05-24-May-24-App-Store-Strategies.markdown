@@ -1,7 +1,7 @@
 ---
 layout: post
 title: May 24 - App Store Strategies
-author: @CascadeRam
+author: Rammanohar Arumugam
 date: 2012-05-21 
 ---
 

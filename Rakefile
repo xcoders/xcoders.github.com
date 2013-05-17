@@ -51,8 +51,8 @@ task :build do
 end
 
 desc "Run local jekyll server"
-task :server, [:port] do |t, args|
-  sh "jekyll --server #{args.port || 4000} --auto --time \"#{Time.now}\""
+task :serve, [:port] do |t, args|
+  sh "jekyll serve #{args.port || 4000} --watch --drafts"
 end
 
 desc "Publish site."

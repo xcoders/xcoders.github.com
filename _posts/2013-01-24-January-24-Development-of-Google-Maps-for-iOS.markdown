@@ -1,7 +1,7 @@
 ---
 layout: post
 title: January 24 - Development of Google Maps for iOS
-author: @CascadeRam
+author: Rammanohar Arumugam
 date: 2013-01-21 
 ---
 

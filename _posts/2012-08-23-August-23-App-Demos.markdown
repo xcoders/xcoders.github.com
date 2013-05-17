@@ -1,7 +1,7 @@
 ---
 layout: post
 title: August 23 - App demos, Lightning talks, Open Discussion
-author: @CascadeRam
+author: Rammanohar Arumugam
 date: 2012-08-22 
 ---
 

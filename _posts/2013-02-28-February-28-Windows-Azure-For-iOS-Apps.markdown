@@ -1,7 +1,7 @@
 ---
 layout: post
 title: February 28 - Windows Azure for iOS Apps
-author: @CascadeRam
+author: Rammanohar Arumugam
 date: 2013-02-26 
 ---
 
