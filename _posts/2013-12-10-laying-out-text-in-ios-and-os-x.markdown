@@ -9,7 +9,7 @@ Our next meeting is Thursday, December 12, and our speaker will be Kyle Sluder o
 
 With the advent of Text Kit, both iOS and OS X provide an extremely powerful text layout and drawing engine built atop Core Text. Learn about the various ways to specify fonts, measure and draw text, and lay out paragraphs while respecting the directionality of your user's chosen script.
 
-The meetings starts at 7 pm. Note that Seattle meetings are now held at The Omni Group,1000 Dexter Ave N, Suite 400 (just north of the corner of Aloha St, on the east side of the street). The building's garage closes at 6pm; neighborhood street parking is free after 6pm.
+The meetings starts at 7 pm. Note that Seattle meetings are now held at [The Omni Group](http://www.omnigroup.com/): [1000 Dexter Ave N, Suite 400](http://goo.gl/maps/j0Rxc) (just north of the corner of Aloha St, on the east side of the street). The building's garage closes at 6pm; neighborhood street parking is free after 6pm.
 
 There may be access via the elevator, but for now assume you should meet on the 1st floor to be taken up to Omni's offices.
 
