@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Laying Out Text in iOS and OS X
+title: December 10 - Laying Out Text in iOS and OS X
 author: Hal Mueller
 date: 2013-12-10
 ---
