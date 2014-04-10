@@ -5,7 +5,8 @@ author: Hal Mueller
 date: '2014-04-05 22:08:43'
 ---
 
-This month, Nathaniel Irons of Black Pixel covers Continuous Integration in Xcode. The continuous integration workflow was introduced last summer as part of Xcode 5. It automates the integration process of building, analyzing, testing, and archiving your app, and notifies team members when code changes cause tests to fail.
+This month, Nathaniel Irons of Black Pixel covers Selected Topics in Automated Builds. He'll be be talking about Jenkins and Travis CI, and about Xcode itself. The focus is on how Black Pixel has used automated builds for ourselves and clients, with a hope of sparking some ideas that others may wish to steal.
+
 
 The meeting starts at 7 pm, and will be held at [The Omni Group](http://www.omnigroup.com/): [1000 Dexter Ave N, Suite 400](http://goo.gl/maps/j0Rxc) (just north of the corner of Aloha St, on the east side of the street). The building's garage closes at 6pm; neighborhood street parking is free after 6pm.
 
