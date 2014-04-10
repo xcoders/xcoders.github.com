@@ -1,6 +1,6 @@
 ---
 layout: post
-title: April 10 - Continuous Integration
+title: April 10 - Selected Topics in Automated Builds
 author: Hal Mueller
 date: '2014-04-05 22:08:43'
 ---
