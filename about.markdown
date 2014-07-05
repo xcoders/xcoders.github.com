@@ -9,7 +9,7 @@ This is the home for the Seattle Xcoders. Our focus is primarily on the family o
 
 There are multiple ways to stay in touch:
 
-* [Mailing list][mailinglist]
+* [Meetup.com][meetup]
 * [News feed][newsfeed]
 * [iCal][ical]
 * [@xcoders on twitter][twitter]
@@ -42,17 +42,17 @@ The conference room that we'll be using is on the first floor outside the main e
 
 # NSCoder Night (every Tuesday night)
 
-NSCoder Night is held Tuesday evenings at [Wayward Coffeehouse](http://www.waywardcoffee.com), [6417 Roosevelt Way NE, Seattle](http://goo.gl/maps/naK2r). It is an informal gathering where people can code, talk shop, ask and answer questions, and find some willing victims for project demonstrations. There is no program, and there is a wide range of experience levels. We're generally there from about 7 until about 10, with people dropping in all through the evening. Look for the Xcoders reserved table in the back.
+NSCoder Night is held Tuesday evenings at [Wayward Coffeehouse][waywardcoffee], [6417 Roosevelt Way NE, Seattle](http://goo.gl/maps/naK2r). It is an informal gathering where people can code, talk shop, ask and answer questions, and find some willing victims for project demonstrations. There is no program, and there is a wide range of experience levels. We're generally there from about 7 until about 10, with people dropping in all through the evening. Look for the Xcoders reserved table in the back.
 
 ## Contact
 
 Please email questions and suggestions to [info@seattlexcoders.org][mailinfo]
 
 
-[mailinglist]: http://lists.seattlexcoders.org/mailman/listinfo/xcoder-talk
+[meetup]: http://www.meetup.com/xcoders/
 [newsfeed]: /atom.xml
 [ical]: webcal://www.google.com/calendar/ical/seattlexcoders.org_l9s7riflr8m9j5hbo8quf5iggc%40group.calendar.google.com/public/basic.ics
 [twitter]: http://www.twitter.com/xcoders
 [thinkspace]: http://thinkspace.com
 [mailinfo]: mailto:info@seattlexcoders.org
-[waywardcoffe]: http://www.waywardcoffee.com
+[waywardcoffee]: http://www.waywardcoffee.com
