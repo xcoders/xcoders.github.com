@@ -1,7 +1,7 @@
 ---
 layout: post
 title: May 23 - iOS to Arduino via Bluetooth LE
-author: @CascadeRam
+author: "@CascadeRam"
 date: 2013-05-22 
 ---
 

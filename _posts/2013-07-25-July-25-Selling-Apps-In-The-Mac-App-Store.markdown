@@ -1,7 +1,7 @@
 ---
 layout: post
 title: July 25 - Selling Apps In The Mac App Store
-author: @CascadeRam
+author: "@CascadeRam"
 date: 2013-07-23 
 ---
 
