@@ -1,6 +1,0 @@
-typedef enum {
-   CUNKItemWithLongNameTypeOne,
-   CUNKItemWithLongNameTypeTwo,
-   CUNKItemWithLongNameTypeThree,
-   CUNKItemWithLongNameTypeFour
-} CUNKItemWithLongNameType;
