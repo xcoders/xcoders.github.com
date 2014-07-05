@@ -78,7 +78,7 @@ The site structure is as follows:
 	</tr>
 	<tr>
 		<td>_drafts</td>
-		<td>Ignored by the site builder. You can build up posts here before brining them live.</td>
+		<td>Ignored by the site builder. You can build up posts here before bringing them live.</td>
 	</tr>
 	<tr>
 		<td>_includes</td>
