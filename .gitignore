@@ -2,4 +2,4 @@ _site/
 .bundle
 bin
 vendor/bundle/ruby
-
+.DS_Store
