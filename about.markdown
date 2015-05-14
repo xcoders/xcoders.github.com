@@ -24,11 +24,9 @@ Presentations are given almost entirely by fellow attendees, and we strongly enc
 
 # Seattle (second Thursday of each month)
 
-Our Seattle meetings are held at [The Omni Group](http://www.omnigroup.com/): [1000 Dexter Ave N, Suite 400](http://goo.gl/maps/j0Rxc) (just north of the corner of Aloha St, on the east side of the street). Gather on the 1st floor to be taken up to Omni's offices.
+Our Seattle meetings are hosted by [Madrona Venture Group](http://www.madrona.com/) at [999 3rd Ave, 34th floor of Wells Fargo Center](https://www.google.com/maps/place/999+3rd+Ave/@47.6049806,-122.3339311,17z/data=!4m3!3m2!1s0x54906ab0febd117b:0x713bc25ef4d02d8d!4b1)
 
-The building is accessible via the 26 and 28 buses which stop out front, and the 40 which stops two blocks to the east on Westlake. It's slightly less accessible via the 5 and 16—if bussing from the north, get off at Galer St and use the pedestrian bridge. If bussing from the south, get off at Prospect St. Or better yet take the 26, 28 or 40 when coming from downtown if at all possible.
-
-The meetings start at 7pm and usually go for an hour, sometimes longer.
+Doors open for mingling at 6:30pm. Presentations start at 7pm and are scheduled to go up to 9pm, but don't always take the full time.
 
 # Redmond (fourth Thursday of each month)
 
