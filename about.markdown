@@ -11,7 +11,6 @@ There are multiple ways to stay in touch:
 
 * [Meetup.com][meetup]
 * [News feed][newsfeed]
-* [iCal][ical]
 * [@xcoders on twitter][twitter]
 
 # Join Us!
